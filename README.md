@@ -8,7 +8,7 @@ Create your own anime-style avatars with different assets of your choice.
 |            Name               | Profile
 |----------------|-------------------------------
 |Đỗ Nguyễn Duy Hoàng | [@hoang1645](https://github.com/hoang1645)
-|Từ Lễ Huy | [@21522173huy](https://github.com/21522173huy)
+|Từ Lễ Huy | [@21522173huy](https://github.com/Jay-Huy)
 |Nguyễn Hải Nam | [@NamSee04](https://github.com/NamSee04)
 |Mai Anh Quan | [@Qcymaq](https://github.com/Qcymaq)
 
